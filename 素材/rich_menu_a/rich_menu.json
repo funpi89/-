@@ -1,0 +1,60 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "車次查詢圖文選單",
+  "chatBarText": "車次查詢",
+  "areas": [
+    {
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1237,
+        "height": 850
+      },
+      "action": {
+        "type": "uri",
+        "uri": "line://app/1653697124-PoqG9q13"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1245,
+        "y": 8,
+        "width": 1241,
+        "height": 825
+      },
+      "action": {
+        "type": "uri",
+        "uri": "line://app/1653697124-qzNjPNaO"
+      }
+    },
+    {
+      "bounds": {
+        "x": 0,
+        "y": 852,
+        "width": 1237,
+        "height": 811
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://www.taiwanbus.tw/DyBus.aspx?Lang="
+      }
+    },
+    {
+      "bounds": {
+        "x": 1253,
+        "y": 850,
+        "width": 1247,
+        "height": 832
+      },
+      "action": {
+        "type": "postback",
+        "text": "請選擇功能",
+        "data": "menu=rich_menu_b"
+      }
+    }
+  ]
+}

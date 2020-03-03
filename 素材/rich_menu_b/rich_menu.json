@@ -1,0 +1,62 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "其他功能V2",
+  "chatBarText": "其他功能",
+  "areas": [
+    {
+      "bounds": {
+        "x": 4,
+        "y": 4,
+        "width": 1229,
+        "height": 824
+      },
+      "action": {
+        "type": "postback",
+        "text": "啟用地標偵測",
+        "data": "mode=models/landmarks/analyze"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1250,
+        "y": 8,
+        "width": 1225,
+        "height": 811
+      },
+      "action": {
+        "type": "postback",
+        "text": "啟用看圖片說英語",
+        "data": "mode=analyze"
+      }
+    },
+    {
+      "bounds": {
+        "x": 8,
+        "y": 845,
+        "width": 1229,
+        "height": 832
+      },
+      "action": {
+        "type": "message",
+        "text": "我要看美女"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1246,
+        "y": 853,
+        "width": 1233,
+        "height": 815
+      },
+      "action": {
+        "type": "postback",
+        "text": "",
+        "data": "menu=rich_menu_a"
+      }
+    }
+  ]
+}

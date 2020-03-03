@@ -1,0 +1,9 @@
+line-bot-sdk
+flask
+requests
+beautifulsoup4
+goslate
+tensorflow==2.0.0b1
+numpy
+pillow
+
