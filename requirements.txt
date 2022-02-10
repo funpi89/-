@@ -3,7 +3,7 @@ flask
 requests
 beautifulsoup4
 goslate
-tensorflow==2.0.0b1
+tensorflow==2.5.3
 numpy
 pillow
 
